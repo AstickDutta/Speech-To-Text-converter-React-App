@@ -6,8 +6,10 @@ To run the app locally, first clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/speech-to-text-converter.git
+git clone https://github.com/AstickDutta/Speech-To-Text-converter-React-App.git
 Then navigate into the project directory and install the necessary dependencies:
+
+deploy link : speech-to-text-converter1.netlify.app
 
 vbnet
 Copy code
