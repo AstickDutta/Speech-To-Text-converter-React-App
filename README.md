@@ -1,19 +1,19 @@
-Voice Listener React App
-This is a React web application that allows users to speak into their microphone and have their speech transcribed in real-time. The app uses the Web Speech API and the react-speech-recognition package to accomplish this.
+Speech-to-Text Converter
+This is a React web application that uses the Web Speech API and the react-speech-recognition package to convert speech to text. Users can speak into their microphone and see their speech transcribed in real-time on the screen.
 
 Installation
 To run the app locally, first clone this repository:
 
 bash
 Copy code
-git clone https://github.com/AstickDutta/Voice-Listener-reactApp.git
+git clone https://github.com/AstickDutta/Speech-To-Text-converter-React-App.git
 Then navigate into the project directory and install the necessary dependencies:
 
-deploy link : https://voice-listener-reactapp.netlify.app/
+deploy link : speech-to-text-converter1.netlify.app
 
-bash
+vbnet
 Copy code
-cd voice-listener-react-app
+cd speech-to-text-converter
 npm install
 Usage
 To start the app, run:
